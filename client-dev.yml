@@ -1,5 +1,5 @@
 build:
   id: 1010101010
   version: 100000.2.3
-  name: "TESTED DEV-GIT-Development-Build"
+  name: "{cipher}1d936dfa65d335de469218b220e987757daa38386b199f49e41104a243513d9214946452536ac022cc404b5736f3cbca46665c0a9fd971468cf9629c7d90e64e"
   type: "GIT Development Build"
